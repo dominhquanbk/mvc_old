@@ -1,0 +1,6 @@
+{
+    "autoload": {
+        "classmap": [
+            "App/Models"]
+    }
+}
